@@ -1,0 +1,9 @@
+.upload {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.upload-header {
+	width: 100vw;
+	border: 2px solid black;
+}
